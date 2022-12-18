@@ -1,0 +1,5 @@
+src/frontend/node/node_modules/
+src/frontend/node_modules/
+src/frontend/build/
+target/
+db-data/
